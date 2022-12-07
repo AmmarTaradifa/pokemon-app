@@ -97,7 +97,7 @@ export default function PokemonDetail() {
             ))}
         </span>
         <center>
-        <Link to={"/"} className="modal-close-btn">
+        <Link to={"/pokemon-app"} className="modal-close-btn">
           Kembali
         </Link>
         </center>
